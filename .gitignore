@@ -1,0 +1,12 @@
+.vs/
+*.sln
+2048/*.resx
+2048/*.csproj
+2048/*.csproj.user
+2048/obj/
+2048/bin/Debug/netcoreapp3.1/*.deps.json
+2048/bin/Debug/netcoreapp3.1/*.dll
+2048/bin/Debug/netcoreapp3.1/*.pdb
+2048/bin/Debug/netcoreapp3.1/*.runtimeconfig.dev.json
+2048/bin/Debug/netcoreapp3.1/*.runtimeconfig.json
+
