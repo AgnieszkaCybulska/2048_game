@@ -1,8 +1,8 @@
 # 2048 written in Windows Forms C#
 ## Table of contents
 * [Description](#description)
-* [Overwiev](#overwiev)
-*[Technologies](#technologies)
+* [Overview](#overview)
+* [Technologies](#technologies)
 
 ## Description
 Project is a copy of 2048 game written in C# using Windows Forms.
